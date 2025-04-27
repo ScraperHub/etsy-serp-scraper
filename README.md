@@ -44,10 +44,10 @@ pip install crawlbase beautifulsoup4 pandas
 
 1. **Get Your Crawlbase Access Token**
 
-   - Sign up at Crawlbase to get your API token.
+   - Sign up at [Crawlbase](https://crawlbase.com/signup) to get your API token.
 
 2. **Update the Scraper**
-   - Replace "YOUR_CRAWLBASE_JS_TOKEN" in etsy_product_listing_scraper.py with your token.
+   - Replace `"YOUR_CRAWLBASE_JS_TOKEN"` in `etsy_product_listing_scraper.py` with your token.
 
 Run the Scraper
 
@@ -55,7 +55,7 @@ Run the Scraper
 python etsy_product_listing_scraper.py
 ```
 
-The scraper will fetch data from all pages for a given query (default is clothes) and save the results to your selected output format.
+The scraper will fetch data from all pages for a given query (default is `clothes`) and save the results to your selected output format.
 
 ## To-Do List
 

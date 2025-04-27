@@ -62,6 +62,6 @@ The scraper will fetch data from all pages for a given query (default is `clothe
 - Add support for dynamic query inputs via CLI.
 - Export results in JSON format.
 - Enhance selector logic for more robust scraping.
-- Add retry logic and proxy rotation for large-scale runs.
+- Add retry logic for large-scale runs.
 
 This scraper is ideal for ecommerce researchers, market analysts, and developers building Etsy data pipelines. 🛒
